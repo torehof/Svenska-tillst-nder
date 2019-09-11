@@ -1,9 +1,9 @@
 #  Ingredients List
-Nr | What
--- | --------
-12 | eggs
-1 | cream
-5 | chives
-20 |  herring 
+Nr | What | Svensk översättning|
+-- | --------|-----------------|
+12 | eggs | ägg|
+1 | cream | grädd|
+5 | chives | gräslök|
+20 |  herring | sild|
   
 These are the essentials.
