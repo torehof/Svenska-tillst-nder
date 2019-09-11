@@ -8,4 +8,4 @@ Nr |  Svenska
 20 |  små röda sillar
 1| butelje akevitt
 
-These are the essentials.
+Mysigt!
