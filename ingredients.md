@@ -1,10 +1,11 @@
-#  Ingredients List
+#  Ingredienser
 
-Nr | What | Svenska
--- | -------- | ----
-12 | eggs | ägg
-1 | cream | grädde
-5 | chives | gräslök
-20 |  small red herrings  | små röda sillar
+Nr |  Svenska
+-- |  ----
+12 |  ägg
+1 |  grädde
+5 |  gräslök
+20 |  små röda sillar
+1| butelje akevitt
 
 These are the essentials.
