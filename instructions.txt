@@ -1,4 +1,4 @@
-scramble 15 eggs
+unscramble eggs
 mince chives
 melt butter
 whisk in cream
