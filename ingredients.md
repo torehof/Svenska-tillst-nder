@@ -3,6 +3,6 @@
 * eggs
 * cream
 * chives
-* herring . 
+* herring 
   
 These are the essentials.
