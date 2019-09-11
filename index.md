@@ -2,4 +2,4 @@
 [Ingredienser](ingredients.md)
 
 
-[Instruksjoner](instructions.txt)
+[Instruksjoner](instructions.md)
